@@ -1,0 +1,46 @@
+
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>避難所ガチャ：3D京都セーフティナビ</title>
+    <link
+      rel="stylesheet"
+      href="https://cesium.com/downloads/cesiumjs/releases/1.130/Build/Cesium/Widgets/widgets.css"
+    />
+  </head>
+  <body>
+    <div id="app">
+      <header>
+
+<div id="languageControl">
+  <button id="languageButton" type="button">
+    English
+  </button>
+</div>
+
+        <!-- 洪水ハザードの表示切り替え -->
+<div id="hazardControls" class="hazard-controls">
+  <label>
+    <input type="checkbox" id="floodToggle" checked />
+    洪水ハザードを表示
+  </label>
+</div>
+
+        <h1>避難所ガチャ：3D京都セーフティナビ</h1>
+        <p>京都駅周辺の3D都市モデルを表示する</p>
+      </header>
+      <main id="cesiumContainer"></main>
+      <!-- 避難所の詳細情報を表示するパネル -->
+<section id="shelterInfo" class="shelter-info">
+  <h2 id="shelterName">避難場所の情報</h2>
+  <p id="shelterAddress">地図上のマーカーをクリックしてください。</p>
+  <p id="shelterCategory"></p>
+  <p id="shelterHazards"></p>
+</section>
+    </div>
+    <script src="https://cesium.com/downloads/cesiumjs/releases/1.130/Build/Cesium/Cesium.js"></script>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
