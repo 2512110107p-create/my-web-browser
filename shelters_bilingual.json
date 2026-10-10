@@ -1,0 +1,1112 @@
+[
+  {
+    "id": "kyoto-shelter-253",
+    "name": "元山王小学校",
+    "longitude": 135.762,
+    "latitude": 34.98286,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市南区東九条東山王町27",
+    "capacity": 495,
+    "waterTargetDistricts": "山王",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 0.46,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Former Sanno Elementary School"
+  },
+  {
+    "id": "kyoto-shelter-216",
+    "name": "下京渉成小学校",
+    "longitude": 135.76230522,
+    "latitude": 34.9896516,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市下京区皆山町438-1",
+    "capacity": 1503,
+    "waterTargetDistricts": "皆山",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 0.6,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Shimogyo Shosei Elementary School"
+  },
+  {
+    "id": "kyoto-shelter-243",
+    "name": "九条弘道小学校",
+    "longitude": 135.7545368,
+    "latitude": 34.9810716,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市南区西九条春日町13",
+    "capacity": 1515,
+    "waterTargetDistricts": "九条弘道",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 0.68,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Kujo Kodo Elementary School"
+  },
+  {
+    "id": "kyoto-shelter-256",
+    "name": "凌風小中学校(凌風学園)",
+    "longitude": 135.75751719,
+    "latitude": 34.9790635,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市南区東九条下殿田町56",
+    "capacity": 4507,
+    "waterTargetDistricts": "東和",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 0.73,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Ryo-fu Elementary and Junior High School (Ryo-fu Gakuen)"
+  },
+  {
+    "id": "kyoto-shelter-224",
+    "name": "元安寧小学校",
+    "longitude": 135.75232564,
+    "latitude": 34.98755997,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市下京区東堀川通木津屋橋下る御方紺屋町1",
+    "capacity": 409,
+    "waterTargetDistricts": "安寧",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 0.75,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Former Annei Elementary School"
+  },
+  {
+    "id": "kyoto-shelter-255",
+    "name": "元東和小学校(凌風小中学校第２校舎)",
+    "longitude": 135.75912267,
+    "latitude": 34.97835802,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市南区東九条南烏丸町19",
+    "capacity": 307,
+    "waterTargetDistricts": "東和",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 0.79,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Former Towa Elementary School (Ryo-fu School, Second Campus)"
+  },
+  {
+    "id": "kyoto-shelter-238",
+    "name": "下京地域体育館",
+    "longitude": 135.76628266,
+    "latitude": 34.98657416,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市下京区川端町13",
+    "capacity": 493,
+    "waterTargetDistricts": "崇仁",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 0.84,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Shimogyo Community Gymnasium"
+  },
+  {
+    "id": "kyoto-shelter-242",
+    "name": "植柳コミュニティセンター",
+    "longitude": 135.7543843,
+    "latitude": 34.991961,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市下京区西洞院通花屋町下る西洞院町466",
+    "capacity": 225,
+    "waterTargetDistricts": "植柳",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 0.87,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Shokuryu Community Center"
+  },
+  {
+    "id": "kyoto-shelter-241",
+    "name": "稚松保育園",
+    "longitude": 135.762875,
+    "latitude": 34.992347,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市下京区河原町通上枳殻馬場上ル若松町420",
+    "capacity": 150,
+    "waterTargetDistricts": "稚松",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 0.88,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Wakamatsu Nursery School"
+  },
+  {
+    "id": "kyoto-shelter-254",
+    "name": "元陶化小学校",
+    "longitude": 135.76279723,
+    "latitude": 34.97856923,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市南区東九条中御霊町55",
+    "capacity": 696,
+    "waterTargetDistricts": "陶化",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 0.89,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Former Toka Elementary School"
+  },
+  {
+    "id": "kyoto-shelter-226",
+    "name": "京都市立芸術大学（体育館）",
+    "longitude": 135.76708258,
+    "latitude": 34.98648252,
+    "category": "指定避難所等",
+    "hazardTypes": [],
+    "address": "京都市下京区川端町16",
+    "capacity": 300,
+    "waterTargetDistricts": null,
+    "landslideTargetDistricts": null,
+    "distanceFromKyotoStationKm": 0.93,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Kyoto City University of Arts (Gymnasium)"
+  },
+  {
+    "id": "kyoto-shelter-232",
+    "name": "元梅逕中学校",
+    "longitude": 135.74965922,
+    "latitude": 34.98626837,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市下京区大宮通八条上る三丁目東側垣ケ内町248",
+    "capacity": 697,
+    "waterTargetDistricts": "梅逕",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 1.02,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Former Baikei Junior High School"
+  },
+  {
+    "id": "kyoto-shelter-258",
+    "name": "九条中学校",
+    "longitude": 135.75007874,
+    "latitude": 34.98100493,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市南区西九条南小路町1",
+    "capacity": 1349,
+    "waterTargetDistricts": "九条、東梅逕",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 1.09,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Kujo Junior High School"
+  },
+  {
+    "id": "kyoto-shelter-228",
+    "name": "下京中学校",
+    "longitude": 135.75726385,
+    "latitude": 34.99527052,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市下京区楊梅通新町東入蛭子町120-1",
+    "capacity": 3153,
+    "waterTargetDistricts": "尚徳",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 1.1,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Shimogyo Junior High School"
+  },
+  {
+    "id": "kyoto-shelter-239",
+    "name": "ひと・まち交流館 京都",
+    "longitude": 135.7651403,
+    "latitude": 34.9932408,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市下京区西木屋町通上ノ口上る梅湊町83-1",
+    "capacity": 137,
+    "waterTargetDistricts": "菊浜",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 1.11,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Kyoto Human and Community Exchange Center"
+  },
+  {
+    "id": "kyoto-shelter-234",
+    "name": "龍谷大学付属 平安中学校・平安高等学校",
+    "longitude": 135.7483592,
+    "latitude": 34.9901847,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市下京区御器屋町30",
+    "capacity": 1096,
+    "waterTargetDistricts": "安寧",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 1.27,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Ryukoku University Heian Junior and Senior High School"
+  },
+  {
+    "id": "kyoto-shelter-181",
+    "name": "京都美術工芸大学京都東山キャンパス",
+    "longitude": 135.768758,
+    "latitude": 34.991177,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市東山区鞘町通正面下る上堀詰町272",
+    "capacity": 495,
+    "waterTargetDistricts": "貞教",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 1.27,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Kyoto University of Art and Design, Higashiyama Campus"
+  },
+  {
+    "id": "kyoto-shelter-218",
+    "name": "元淳風小学校",
+    "longitude": 135.74984235,
+    "latitude": 34.99344559,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市下京区大宮通花屋町上る柿本町609-1",
+    "capacity": 757,
+    "waterTargetDistricts": "淳風",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 1.33,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Former Junpu Elementary School"
+  },
+  {
+    "id": "kyoto-shelter-261",
+    "name": "洛南高等学校・洛南高等学校附属中学校",
+    "longitude": 135.746869,
+    "latitude": 34.983835,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市南区壬生通八条下る東寺町559",
+    "capacity": 1308,
+    "waterTargetDistricts": "梅逕",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 1.34,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Rakunan Senior High School and Affiliated Junior High School"
+  },
+  {
+    "id": "kyoto-shelter-161",
+    "name": "東山泉小中学校 西学舎",
+    "longitude": 135.7707961,
+    "latitude": 34.98393285,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害",
+      "土砂災害"
+    ],
+    "address": "京都市東山区大和大路通七条下る5丁目下池田町527",
+    "capacity": 2233,
+    "waterTargetDistricts": "一橋",
+    "landslideTargetDistricts": "一橋",
+    "distanceFromKyotoStationKm": 1.34,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Higashiyama Izumi Elementary and Junior High School, West Campus"
+  },
+  {
+    "id": "kyoto-shelter-236",
+    "name": "京都市修徳特別養護老人ホーム",
+    "longitude": 135.7570221,
+    "latitude": 34.99815918,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市下京区新町通松原下る富永町110-1",
+    "capacity": 256,
+    "waterTargetDistricts": "修徳",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 1.42,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Kyoto City Shutoku Special Nursing Home"
+  },
+  {
+    "id": "kyoto-shelter-227",
+    "name": "元有隣小学校",
+    "longitude": 135.76463526,
+    "latitude": 34.99703156,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市下京区富小路通五条上る本神明町411",
+    "capacity": 973,
+    "waterTargetDistricts": "有隣",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 1.43,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Former Yurin Elementary School"
+  },
+  {
+    "id": "kyoto-shelter-219",
+    "name": "梅小路小学校",
+    "longitude": 135.74592892,
+    "latitude": 34.9879932,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市下京区観喜寺町3",
+    "capacity": 1375,
+    "waterTargetDistricts": "大内",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 1.46,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Umekoji Elementary School"
+  },
+  {
+    "id": "kyoto-shelter-163",
+    "name": "大谷中学高等学校",
+    "longitude": 135.77205429,
+    "latitude": 34.98404398,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害",
+      "土砂災害"
+    ],
+    "address": "京都市東山区今熊野池田町12",
+    "capacity": 1350,
+    "waterTargetDistricts": "一橋",
+    "landslideTargetDistricts": "一橋",
+    "distanceFromKyotoStationKm": 1.48,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Otani Junior and Senior High School"
+  },
+  {
+    "id": "kyoto-shelter-244",
+    "name": "九条塔南小学校",
+    "longitude": 135.74870108,
+    "latitude": 34.97596924,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市南区西九条御幸田町109",
+    "capacity": 1420,
+    "waterTargetDistricts": "九条塔南",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 1.54,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Kujo Tonan Elementary School"
+  },
+  {
+    "id": "kyoto-shelter-217",
+    "name": "下京雅小学校",
+    "longitude": 135.75310023,
+    "latitude": 34.99844245,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市下京区醒ケ井通松原下る篠屋町59",
+    "capacity": 1583,
+    "waterTargetDistricts": "醒泉",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 1.57,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Shimogyo Miyabi Elementary School"
+  },
+  {
+    "id": "kyoto-shelter-180",
+    "name": "京都国立博物館　平成知新館",
+    "longitude": 135.772377,
+    "latitude": 34.990581,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市東山区茶屋町526",
+    "capacity": 322,
+    "waterTargetDistricts": "貞教",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 1.61,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Kyoto National Museum, Heisei Chishinkan Wing"
+  },
+  {
+    "id": "kyoto-shelter-229",
+    "name": "下京中学校成徳学舎",
+    "longitude": 135.75731645,
+    "latitude": 34.99998959,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市下京区高辻通室町西入繁昌町290",
+    "capacity": 205,
+    "waterTargetDistricts": "成徳",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 1.62,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Shimogyo Junior High School, Seitoku Campus"
+  },
+  {
+    "id": "kyoto-shelter-158",
+    "name": "元月輪小学校",
+    "longitude": 135.77185165,
+    "latitude": 34.97789182,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害",
+      "土砂災害"
+    ],
+    "address": "京都市東山区本町通三ノ橋上る本町十七丁目358",
+    "capacity": 388,
+    "waterTargetDistricts": "月輪",
+    "landslideTargetDistricts": "月輪、稲荷",
+    "distanceFromKyotoStationKm": 1.68,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Former Tsukinowa Elementary School"
+  },
+  {
+    "id": "kyoto-shelter-245",
+    "name": "南大内小学校",
+    "longitude": 135.74442357,
+    "latitude": 34.98014105,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市南区八条内田町20-2",
+    "capacity": 1441,
+    "waterTargetDistricts": "南大内",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 1.7,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Minami-Ouchi Elementary School"
+  },
+  {
+    "id": "kyoto-shelter-263",
+    "name": "府立鳥羽高等学校",
+    "longitude": 135.744725,
+    "latitude": 34.978199,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市南区西九条大国町1",
+    "capacity": 1077,
+    "waterTargetDistricts": "九条塔南",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 1.76,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Toba Prefectural Senior High School"
+  },
+  {
+    "id": "kyoto-shelter-225",
+    "name": "北総合支援学校中央分校",
+    "longitude": 135.75331403,
+    "latitude": 35.00072282,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市下京区油小路通仏光寺下る太子山町６０２-１",
+    "capacity": 596,
+    "waterTargetDistricts": "格致",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 1.8,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Kita Special Needs School, Central Branch"
+  },
+  {
+    "id": "kyoto-shelter-215",
+    "name": "洛央小学校",
+    "longitude": 135.76155765,
+    "latitude": 35.00162838,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市下京区仏光寺通東洞院東入仏光寺西町345-1",
+    "capacity": 2038,
+    "waterTargetDistricts": "豊園",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 1.82,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Rakuchu Elementary School"
+  },
+  {
+    "id": "kyoto-shelter-235",
+    "name": "京都市学校歴史博物館",
+    "longitude": 135.7658489,
+    "latitude": 35.0009535,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市下京区御幸町通仏光寺下る橘町437",
+    "capacity": 275,
+    "waterTargetDistricts": "開智",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 1.89,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Kyoto Municipal School History Museum"
+  },
+  {
+    "id": "kyoto-shelter-409",
+    "name": "京都奏和高等学校",
+    "longitude": 135.76553291,
+    "latitude": 34.96985916,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市伏見区深草鈴塚町13",
+    "capacity": 2358,
+    "waterTargetDistricts": "砂川",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 1.89,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Kyoto Sowa Senior High School"
+  },
+  {
+    "id": "kyoto-shelter-176",
+    "name": "妙法院",
+    "longitude": 135.77556207,
+    "latitude": 34.9904045,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害",
+      "土砂災害"
+    ],
+    "address": "京都市東山区妙法院前側町447",
+    "capacity": 167,
+    "waterTargetDistricts": "修道",
+    "landslideTargetDistricts": "修道",
+    "distanceFromKyotoStationKm": 1.94,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Myōhō-in Temple"
+  },
+  {
+    "id": "kyoto-shelter-175",
+    "name": "東福寺",
+    "longitude": 135.7742716,
+    "latitude": 34.9767345,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害",
+      "土砂災害"
+    ],
+    "address": "京都市東山区本町十五丁目778",
+    "capacity": 364,
+    "waterTargetDistricts": "月輪",
+    "landslideTargetDistricts": "月輪",
+    "distanceFromKyotoStationKm": 1.97,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Tofuku-ji Temple"
+  },
+  {
+    "id": "kyoto-shelter-240",
+    "name": "池坊学園",
+    "longitude": 135.7576913,
+    "latitude": 35.00325322,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市下京区室町通四条下る鶏鉾町491",
+    "capacity": 318,
+    "waterTargetDistricts": "成徳",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 1.97,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Ikenobo Gakuen"
+  },
+  {
+    "id": "kyoto-shelter-169",
+    "name": "東山総合支援学校",
+    "longitude": 135.77563979,
+    "latitude": 34.99201268,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害",
+      "土砂災害"
+    ],
+    "address": "京都市東山区東大路渋谷下る妙法院前側町441",
+    "capacity": 1323,
+    "waterTargetDistricts": "修道",
+    "landslideTargetDistricts": "修道",
+    "distanceFromKyotoStationKm": 2.0,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Higashiyama Comprehensive Support School"
+  },
+  {
+    "id": "kyoto-shelter-132",
+    "name": "松原中学校",
+    "longitude": 135.74782013,
+    "latitude": 34.99985617,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市中京区壬生相合町1",
+    "capacity": 1623,
+    "waterTargetDistricts": "朱雀第三",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 2.01,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Matsubara Junior High School"
+  },
+  {
+    "id": "kyoto-shelter-166",
+    "name": "日吉ケ丘高等学校",
+    "longitude": 135.77593727,
+    "latitude": 34.97882517,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害",
+      "土砂災害"
+    ],
+    "address": "京都市東山区今熊野悲田院山町5-22",
+    "capacity": 3570,
+    "waterTargetDistricts": "月輪",
+    "landslideTargetDistricts": "月輪",
+    "distanceFromKyotoStationKm": 2.04,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Hiyoshigaoka Senior High School"
+  },
+  {
+    "id": "kyoto-shelter-220",
+    "name": "光徳小学校",
+    "longitude": 135.743815,
+    "latitude": 34.99673692,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市下京区中堂寺坊城町26-1",
+    "capacity": 1763,
+    "waterTargetDistricts": "光徳",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 2.08,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Kotoku Elementary School"
+  },
+  {
+    "id": "kyoto-shelter-165",
+    "name": "京都女子中学・高等学校",
+    "longitude": 135.77701747,
+    "latitude": 34.99009621,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害",
+      "土砂災害"
+    ],
+    "address": "京都市東山区今熊野北日吉町17",
+    "capacity": 1423,
+    "waterTargetDistricts": "修道",
+    "landslideTargetDistricts": "修道",
+    "distanceFromKyotoStationKm": 2.09,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Kyoto Women’s Junior and Senior High School"
+  },
+  {
+    "id": "kyoto-shelter-160",
+    "name": "開睛小中学校",
+    "longitude": 135.77417317,
+    "latitude": 34.99634282,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害",
+      "土砂災害"
+    ],
+    "address": "京都市東山区六波羅裏門通東入多門町155",
+    "capacity": 4271,
+    "waterTargetDistricts": "六原",
+    "landslideTargetDistricts": "六原",
+    "distanceFromKyotoStationKm": 2.09,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Kaisei Elementary and Junior High School"
+  },
+  {
+    "id": "kyoto-shelter-155",
+    "name": "元今熊野小学校",
+    "longitude": 135.77768419,
+    "latitude": 34.98462735,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "土砂災害"
+    ],
+    "address": "京都市東山区今熊野南日吉町27-3",
+    "capacity": 717,
+    "waterTargetDistricts": "-",
+    "landslideTargetDistricts": "今熊野",
+    "distanceFromKyotoStationKm": 2.1,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Former Imakumano Elementary School"
+  },
+  {
+    "id": "kyoto-shelter-233",
+    "name": "京都産業大学附属中学校・高等学校",
+    "longitude": 135.7445288,
+    "latitude": 34.99792017,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市下京区中堂寺命婦町1-10",
+    "capacity": 1045,
+    "waterTargetDistricts": "光徳",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 2.1,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Kyoto Sangyo University Junior and Senior High School"
+  },
+  {
+    "id": "kyoto-shelter-157",
+    "name": "新道自治会館",
+    "longitude": 135.7713156,
+    "latitude": 34.9996924,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市東山区宮川筋四丁目306番地",
+    "capacity": 211,
+    "waterTargetDistricts": "新道",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 2.1,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Shinmichi Residents’ Hall"
+  },
+  {
+    "id": "kyoto-shelter-237",
+    "name": "京都市総合教育センター",
+    "longitude": 135.7680303,
+    "latitude": 35.0022281,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市下京区河原町通仏光寺西入富永町344",
+    "capacity": 839,
+    "waterTargetDistricts": "永松",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 2.12,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Kyoto City General Education Center"
+  },
+  {
+    "id": "kyoto-shelter-231",
+    "name": "洛友中学校(元郁文中学校)",
+    "longitude": 135.74873942,
+    "latitude": 35.0019449,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市下京区大宮通綾小路下る綾大宮町51-2",
+    "capacity": 1650,
+    "waterTargetDistricts": "郁文",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 2.14,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Rakuyu Junior High School (Former Ikubun Junior High School)"
+  },
+  {
+    "id": "kyoto-shelter-143",
+    "name": "京都芸術センター",
+    "longitude": 135.75834395,
+    "latitude": 35.00543361,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市中京区室町通蛸薬師下る山伏山町546-2",
+    "capacity": 748,
+    "waterTargetDistricts": "明倫",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 2.21,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Kyoto Art Center"
+  },
+  {
+    "id": "kyoto-shelter-172",
+    "name": "大谷本廟",
+    "longitude": 135.77723402,
+    "latitude": 34.99342088,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害",
+      "土砂災害"
+    ],
+    "address": "京都市東山区五条橋東六丁目514",
+    "capacity": 172,
+    "waterTargetDistricts": "六原",
+    "landslideTargetDistricts": "六原",
+    "distanceFromKyotoStationKm": 2.23,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Otani Hombyo"
+  },
+  {
+    "id": "kyoto-shelter-257",
+    "name": "八条中学校",
+    "longitude": 135.73868783,
+    "latitude": 34.98268245,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市南区唐橋門脇町35",
+    "capacity": 1649,
+    "waterTargetDistricts": "唐橋",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 2.25,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Hachijo Junior High School"
+  },
+  {
+    "id": "kyoto-shelter-162",
+    "name": "東山泉小中学校 東学舎",
+    "longitude": 135.77825087,
+    "latitude": 34.97963903,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害",
+      "土砂災害"
+    ],
+    "address": "京都市東山区泉涌寺山内町5",
+    "capacity": 2203,
+    "waterTargetDistricts": "一橋",
+    "landslideTargetDistricts": "一橋",
+    "distanceFromKyotoStationKm": 2.25,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Higashiyama Izumi Elementary and Junior High School, East Campus"
+  },
+  {
+    "id": "kyoto-shelter-430",
+    "name": "京都拘置所",
+    "longitude": 135.754962,
+    "latitude": 34.965398,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市伏見区竹田向代町138",
+    "capacity": 185,
+    "waterTargetDistricts": "竹田",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 2.27,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Kyoto Detention House"
+  },
+  {
+    "id": "kyoto-shelter-364",
+    "name": "稲荷小学校",
+    "longitude": 135.77157667,
+    "latitude": 34.96932331,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "土砂災害"
+    ],
+    "address": "京都市伏見区深草開土町12-1",
+    "capacity": 1155,
+    "waterTargetDistricts": "-",
+    "landslideTargetDistricts": "稲荷",
+    "distanceFromKyotoStationKm": 2.29,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Inari Elementary School"
+  },
+  {
+    "id": "kyoto-shelter-137",
+    "name": "堀川高等学校",
+    "longitude": 135.75273061,
+    "latitude": 35.00533356,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市中京区東堀川通錦小路上る四坊堀川町622-2",
+    "capacity": 3374,
+    "waterTargetDistricts": "本能",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 2.3,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Horikawa Senior High School"
+  },
+  {
+    "id": "kyoto-shelter-150",
+    "name": "堀川高等学校本能館及び本能自治会館",
+    "longitude": 135.7540374,
+    "latitude": 35.0058977,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市中京区元本能寺南町346",
+    "capacity": 1143,
+    "waterTargetDistricts": "本能",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 2.33,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Horikawa Senior High School Honno Building and Honno Residents’ Hall"
+  },
+  {
+    "id": "kyoto-shelter-171",
+    "name": "東山地域体育館",
+    "longitude": 135.77633958,
+    "latitude": 34.99702887,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "土砂災害"
+    ],
+    "address": "京都市東山区清水五丁目130-6 東山区総合庁舎3階",
+    "capacity": 417,
+    "waterTargetDistricts": "-",
+    "landslideTargetDistricts": "清水",
+    "distanceFromKyotoStationKm": 2.33,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Higashiyama Community Gymnasium"
+  },
+  {
+    "id": "kyoto-shelter-173",
+    "name": "建仁寺",
+    "longitude": 135.77443139,
+    "latitude": 34.99972307,
+    "category": "指定避難所等",
+    "hazardTypes": [],
+    "address": "京都市東山区大和大路通四条下る四丁目小松町584",
+    "capacity": 160,
+    "waterTargetDistricts": null,
+    "landslideTargetDistricts": null,
+    "distanceFromKyotoStationKm": 2.35,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Kennin-ji Temple"
+  },
+  {
+    "id": "kyoto-shelter-168",
+    "name": "京都女子大学",
+    "longitude": 135.7798422,
+    "latitude": 34.9886047,
+    "category": "指定避難所等",
+    "hazardTypes": [],
+    "address": "京都市東山区今熊野北日吉町35",
+    "capacity": 1193,
+    "waterTargetDistricts": null,
+    "landslideTargetDistricts": null,
+    "distanceFromKyotoStationKm": 2.36,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Kyoto Women’s University"
+  },
+  {
+    "id": "kyoto-shelter-117",
+    "name": "高倉小学校",
+    "longitude": 135.76184911,
+    "latitude": 35.00681685,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市中京区高倉通六角下る和久屋町343",
+    "capacity": 1971,
+    "waterTargetDistricts": "日彰",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 2.39,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Takakura Elementary School"
+  },
+  {
+    "id": "kyoto-shelter-149",
+    "name": "京都市男女共同参画センター ウィングス京都",
+    "longitude": 135.76132972,
+    "latitude": 35.0069474,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市中京区東洞院通六角下る御射山町262",
+    "capacity": 400,
+    "waterTargetDistricts": "日彰",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 2.4,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Wings Kyoto, Kyoto City Gender Equality Center"
+  },
+  {
+    "id": "kyoto-shelter-246",
+    "name": "唐橋小学校",
+    "longitude": 135.73780457,
+    "latitude": 34.97957714,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市南区唐橋西寺町65",
+    "capacity": 1434,
+    "waterTargetDistricts": "唐橋",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 2.42,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Karahashi Elementary School"
+  },
+  {
+    "id": "kyoto-shelter-230",
+    "name": "七条中学校",
+    "longitude": 135.73717675,
+    "latitude": 34.99063178,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市下京区西七条御領町32",
+    "capacity": 1885,
+    "waterTargetDistricts": "七条第三",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 2.47,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Shichijo Junior High School"
+  },
+  {
+    "id": "kyoto-shelter-127",
+    "name": "元生祥小学校",
+    "longitude": 135.76513768,
+    "latitude": 35.0068252,
+    "category": "指定避難所等",
+    "hazardTypes": [
+      "水災害"
+    ],
+    "address": "京都市中+AI130京区富小路通六角下る骨屋之町549",
+    "capacity": 495,
+    "waterTargetDistricts": "生祥",
+    "landslideTargetDistricts": "-",
+    "distanceFromKyotoStationKm": 2.47,
+    "source": "京都市オープンデータ（指定避難所等一覧、指定緊急避難場所 水災害・土砂災害）",
+    "nameEn": "Former Seisho Elementary School"
+  }
+]
